@@ -14,7 +14,7 @@
 Text area component is a form control field to input user data such as numbers, alphabets, special characters, password, email, search etc. Input can be used within the forms to capture the data from the user. 
 
 #### Usage
-Text-area component specifies an input field where the user can enter data. <input> elements are used within a <form> element to declare input controls that allow users to input data. An input field can vary in many ways, depending on the type attribute.
+Text-area component specifies an input field where the user can enter data. Input elements are used within a form element to declare input controls that allow users to input data. An input field can vary in many ways, depending on the type attribute.
 
 #### How to use:   
 - Drag and drop the component. 
